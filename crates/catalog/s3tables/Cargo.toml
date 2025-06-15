@@ -33,7 +33,7 @@ anyhow = { workspace = true }
 async-trait = { workspace = true }
 aws-config = { workspace = true }
 aws-sdk-s3tables = "1.10.0"
-iceberg = { workspace = true }
+iceberg = "0.5.1"
 serde_json = { workspace = true }
 typed-builder = { workspace = true }
 uuid = { workspace = true, features = ["v4"] }
